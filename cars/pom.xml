@@ -25,7 +25,7 @@
     <lang.version>2.6</lang.version><!--java通用工具包-->
     <uploader.version>1.2.1</uploader.version><!--上传工具-->
     <mysql.version>5.1.30</mysql.version><!--mysql版本号-->
-    <mybatis.version>3.4.6</mybatis.version><!--mybatis版本号-->
+    <mybatis.version>3.5.6</mybatis.version><!--mybatis版本号-->
     <mybatis-spring.version>1.3.0</mybatis-spring.version><!---->
     <pagehelper.version>4.1.6</pagehelper.version><!--mybatis分页插件版本号-->
     <druid.version>1.0.13</druid.version><!--数据源版本号-->

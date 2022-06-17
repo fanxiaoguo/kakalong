@@ -20,7 +20,7 @@
     <!--打包的编码格式-->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <javax.version>8.0</javax.version><!--预示jdk版本号-->
-    <fastjson.version>1.2.58</fastjson.version><!--fastjson版本-->
+    <fastjson.version>1.2.83</fastjson.version><!--fastjson版本-->
     <jstl.version>1.2.2</jstl.version><!--jstl相关版本号-->
     <lang.version>2.6</lang.version><!--java通用工具包-->
     <uploader.version>1.2.1</uploader.version><!--上传工具-->
